@@ -1,0 +1,10 @@
+TOUCAN PAYMENTS
+Engineering Challenge - Test Results
+
+Test Command:
+.\mvnw.cmd clean test
+
+Final Result:
+Tests run: 7, Failures: 0, Errors: 0, Skipped: 0
+
+BUILD SUCCESS
